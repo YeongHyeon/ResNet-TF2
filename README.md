@@ -1,6 +1,10 @@
 [TensorFlow 2] Deep Residual Learning for Image Recognition
 =====
 
+## Related Repositories
+<a href="https://github.com/YeongHyeon/ResNeXt-TF2">ResNeXt-TF2</a>  
+<a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet(WRN)-TF2</a>  
+
 ## Concept
 <div align="center">
   <img src="./figures/resnet.png" width="600">  

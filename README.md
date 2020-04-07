@@ -4,6 +4,8 @@
 ## Related Repositories
 <a href="https://github.com/YeongHyeon/ResNeXt-TF2">ResNeXt-TF2</a>  
 <a href="https://github.com/YeongHyeon/WideResNet_WRN-TF2">WideResNet(WRN)-TF2</a>  
+<a href="https://github.com/YeongHyeon/ResNet-with-LRWarmUp-TF2">ResNet-with-LRWarmUp-TF2</a>  
+<a href="https://github.com/YeongHyeon/ResNet-with-SGDR-TF2">ResNet-with-SGDR-TF2</a>  
 
 ## Concept
 <div align="center">
